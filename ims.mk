@@ -28,7 +28,7 @@ PRODUCT_PRODUCT_PROPERTIES += \
     persist.dbg.volte_avail_ovr=1 \
     persist.dbg.vt_avail_ovr=1 \
     persist.dbg.wfc_avail_ovr=1 \
-    persist.vendor.vilte_support=0 \
+    persist.vendor.vilte_support=1 \
     persist.vendor.ims_support=1 \
     persist.vendor.volte_support=1
 
